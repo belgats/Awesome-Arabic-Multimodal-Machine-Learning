@@ -33,8 +33,7 @@ A list of research papers on Arabic multimodal machine learning.
 | Title | Authors | Year | Link |
 |-------|---------|------|------|
 | Paper 1 | Author 1 | 2020 | [Link](#) |
-| Paper 2 | Author 2 | 2021 | [Link](#) |
-| Paper 3 | Author 3 | 2022 | [Link](#) |
+
 
 ## Models
 A list of models for Arabic multimodal machine learning, organized by modality and criteria.
